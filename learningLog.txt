@@ -1,0 +1,43 @@
+####
+
+
+## OOP
+  Object Oriented Programming
+
+## Namespace
+  A Namespace is a collection of classes
+
+## Classes
+  Core to OOP
+  A class can have two types of things assigned to it.
+  1. Attributes (such as variables or constants)
+  2. Behaviours (such as methods)
+
+  A good example would be a car.
+  A car can have attributes such as:
+  - colour
+
+
+## Objects
+  An object is 1 instance of a class
+
+## Instantiation
+  An new object (instance of a class) needs to be instantiated before it can be used
+
+## Constructors
+  Used to instantiate objects of a class
+
+
+## Methods
+
+## Arguments (AKA parameter)
+
+## variables
+
+## constants
+
+## Array
+
+## Branching (if / else)
+
+## Loops (for / while)
