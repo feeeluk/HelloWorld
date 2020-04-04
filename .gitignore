@@ -1,7 +1,9 @@
 learningLog.txt
+gitHelp.txt
 App.config
 HelloWorld.csproj
 HelloWorld.sln
 /.vs
 /obj
 /Properties
+/bin
