@@ -6,6 +6,8 @@
 
 namespace HelloWorld
 {
+    // ### LESSON 1 ####################
+
 
     // Variable is declared by a type followed by an identifier and then a ;
     // Variables can't be used unless they are initialised - assigned a value;
