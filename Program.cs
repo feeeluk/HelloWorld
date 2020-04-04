@@ -1,5 +1,5 @@
 ﻿using System;
-// ## Master
+// ## Lesson 02
 
 namespace HelloWorld
 {
